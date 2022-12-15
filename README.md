@@ -2,7 +2,8 @@ Hi, I’m Benedict Ell Nino
 I’m interested in 
 - Front End Development
 - Cryptography 
-- Gaming 
+- [Gaming](https://www.youtube.com/channel/UCeDxd3XofRwT9LTKRFL65Yw)
+- [Illustration](https://www.pixiv.net/en/users/28749658) 
 
 
 <!---
