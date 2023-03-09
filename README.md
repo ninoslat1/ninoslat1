@@ -10,9 +10,10 @@ I’m interested in
 
 ## Cryptography 
 
-## [Gaming](https://www.youtube.com/channel/UCeDxd3XofRwT9LTKRFL65Yw)
- ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
- ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
+## [Gaming]
+ ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)(https://steamcommunity.com/id/ninoslat1/)
+ 
+ ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)(https://www.youtube.com/channel/UCeDxd3XofRwT9LTKRFL65Yw)
 
 
 ## [Illustration](https://www.pixiv.net/en/users/28749658) 
