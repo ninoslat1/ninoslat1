@@ -8,15 +8,13 @@ I’m interested in
  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
  ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-## Cryptography 
+### Cryptography 
 
-## [Gaming]
- ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)(https://steamcommunity.com/id/ninoslat1/)
+### [Gaming](https://steamcommunity.com/id/ninoslat1/)
  
- ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)(https://www.youtube.com/channel/UCeDxd3XofRwT9LTKRFL65Yw)
+### [YouTube](https://www.youtube.com/channel/UCeDxd3XofRwT9LTKRFL65Yw)
 
-
-## [Illustration](https://www.pixiv.net/en/users/28749658) 
+### [Illustration](https://www.pixiv.net/en/users/28749658) 
 
 
 <!---
