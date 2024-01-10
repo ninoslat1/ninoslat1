@@ -11,10 +11,6 @@ I’m interested in
 ### [Cryptography](https://scholar.google.com/citations?user=oyjIYmEAAAAJ&hl=id&oi=ao) 
 
 ### [Gaming](https://steamcommunity.com/id/ninoslat1/)
- 
-### [YouTube](https://www.youtube.com/channel/UCeDxd3XofRwT9LTKRFL65Yw)
-
-### [Illustration](https://www.pixiv.net/en/users/28749658) 
 
 
 <!---
