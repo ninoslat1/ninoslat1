@@ -3,7 +3,7 @@ Hi, I’m Benedict Ell Nino
 I'm used this to built my project
 
 ## Tools
-[![My Skills](https://skillicons.dev/icons?i=figma,visualstudio,git,github,postman,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,visualstudio,git,github,postman,docker,vscode)](https://skillicons.dev)
 
 and i’m interested in 
 
