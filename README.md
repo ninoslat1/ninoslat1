@@ -18,4 +18,4 @@ and i’m interested in
 ### [Cryptography](https://scholar.google.com/citations?user=oyjIYmEAAAAJ&hl=id&oi=ao) 
 
 ## Stats
-![ninoslat1's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ninoslat1&theme=vue-dark&hide_border=true) ![ninoslat1's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ninoslat1&theme=vue-dark&show_icons=true&hide_border=true&layout=compact) 
+![:ninoslat1](https://count.chiya.dev/get/@:ninoslat1)
