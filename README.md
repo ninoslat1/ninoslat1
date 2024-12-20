@@ -17,5 +17,10 @@ and i’m interested in
 
 ### [Cryptography](https://scholar.google.com/citations?user=oyjIYmEAAAAJ&hl=id&oi=ao) 
 
-## Stats
-![:ninoslat1](https://count.chiya.dev/get/@:ninoslat1)
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/ninoslat1"
+  width="600"
+  height="300"
+/>
+</a>
